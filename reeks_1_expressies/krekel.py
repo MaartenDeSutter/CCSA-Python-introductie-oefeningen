@@ -1,0 +1,5 @@
+chirpsPerSec = float(input())
+tempF = 50 + ((chirpsPerSec - 40)/4)
+tempC = 10 + ((chirpsPerSec - 40)/7)
+print(f"temperatuur (Fahrenheit): {tempF}")
+print(f"temperatuur (Celsius): {tempC}")
