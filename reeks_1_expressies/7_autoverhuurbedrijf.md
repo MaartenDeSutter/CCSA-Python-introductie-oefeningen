@@ -2,7 +2,7 @@
 
 Bij een autoverhuurbedrijf kan men auto's afhalen met een volle benzinetank. Wagens moeten ook volgetankt terug ingeleverd worden. Een klant huurt een wagen waarvan de kilometerteller bij aanvang $b$ kilometer aangeeft. Als de klant de auto terug inlevert staat de teller op $e$ kilometer en moet hij $l$ liter benzine tanken om de benzinetank weer te vullen.
 
-### Invoer
+## Invoer
 
 De decimale getallen $b$, $e$ en $l$, in die volgorde en op drie afzonderlijke regels.
 
